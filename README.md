@@ -24,14 +24,14 @@
 O projeto em questão envolve o uso dos conceitos apresentados na aula de **Ciência de Dados** para análise de um *DataSet*. Os conceitos da aula envolvem:
 - Leitura de dados com *pandas*
 - Manipulação e limpeza de dados com *pandas*
-- Descritivo e exploração de dados com *pandas* (groupbys)
+- Descritivo e exploração de dados com *pandas* (*groupbys*)
 - Geração de insights sobre os dados com *pandas* e *matplotlib*
 - Quebra de dados em conjunto de treino e conjunto de teste
 - Treino de estimador do *scikit-learn* de aprendizagem supervisionada (regressor ou classificador) no conjunto de treino
 - Verificação de desempenho do estimador do *scikit-learn* no conjunto de teste
 
 ### **Desenvolvimento do projeto**
-O [*DataSet*](a "Base de Dados") escolhido para realizar a análise e manipulação dos dados foi o **Road transport dataset in Brazil**: um levantamento de dados de viagens interestaduais de ônibus realizadas no Brasil entre os anos de 2019 e 2020. A partir deste dataset, foram realizadas as atividades de análise e manipulação de dados seguindo os conceitos da matéria de Ciência de Dados 2021/02.
+O *DataSet* escolhido para realizar a análise e manipulação dos dados foi o **Road transport dataset in Brazil**: um levantamento de dados de viagens interestaduais de ônibus realizadas no Brasil entre os anos de 2019 e 2020. A partir deste dataset, foram realizadas as atividades de análise e manipulação de dados seguindo os conceitos da matéria de Ciência de Dados 2021/02.
 
 --------------------------------------
 ## Referências e Links importantes
