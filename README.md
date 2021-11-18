@@ -48,3 +48,26 @@ O *DataSet* escolhido para realizar a análise e manipulação dos dados foi o *
 > ```
 > Storopoli (2020, March 2). Ciência de Dados com Python: pandas, matplotlib, scikit-learn e tensorflow: Ciência de Dados. Disponível em: https://storopoli.io/ciencia-de-dados
 > ```
+
+--------------------------------------
+## Como iniciar a aplicação
+
+1 - Descompactar o dataset
+> O dataset do projeto está em formato zip(por questões de espaço no repositório).  
+> Antes de iniciar a aplicação, deve-se descompactar o arquivo **data/road-transport-brazil.zip**
+
+2 - Abrir o arquivo **BrazilTransportation[2019-2020].ipynb**
+> Este arquivo é um Jupiter Notebook que contém todas as operações de análize e tratamento de dados
+
+### **Importante:**
+Para o projeto funcionar corretamente, deve-se ter instalados os seguintes softwares:
+- Python 3.10.0+
+- Pip 21.3.1+
+- Pandas
+
+Extensões para serem usadas no Visual Studio Code(caso necessário):
+- Jypyter
+- Jupyter Keymap
+- Jupyter Notebook Renders
+- Python
+- Pylance
