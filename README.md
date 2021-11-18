@@ -1,6 +1,7 @@
 # Projeto de Ciência de Dados
 - Universidade Nove de Julho
 - Ciência da Computação - 2021/02
+- Visualização Online [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/luisgustavoreimberg/uni9-data_science-brazil_transportation/main/BrazilTransportation[2019-2020].ipynb)
 
 ## Sobre o Projeto
 - **Tema:** Análise do fluxo do transporte interestadual de ônibus entre os anos de 2019 e 2020
@@ -46,7 +47,7 @@ O *DataSet* escolhido para realizar a análise e manipulação dos dados foi o *
 > ### **Ciência de Dados**
 > Orientações do trabalho e conceitos das aulas utilizados para realização do trabalho
 > ```
-> Storopoli (2020, March 2). Ciência de Dados com Python: pandas, matplotlib, scikit-learn e tensorflow: Ciência de Dados. Disponível em: https://storopoli.io/ciencia-de-dados
+> Storopoli (2020, March 2). Ciência de Dados com Python: pandas, matplotlib, scikit-learn e tensorflow: Ciência de Dados. Disponível em: https://github.com/storopoli/ciencia-de-dados
 > ```
 
 --------------------------------------
