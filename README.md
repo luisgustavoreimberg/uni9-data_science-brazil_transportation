@@ -31,7 +31,7 @@ O projeto em questão envolve o uso dos conceitos apresentados na aula de **Ciê
 - Verificação de desempenho do estimador do *scikit-learn* no conjunto de teste
 
 ### **Desenvolvimento do projeto**
-O *DataSet* escolhido para realizar a análise e manipulação dos dados foi o **Road transport dataset in Brazil**: um levantamento de dados de viagens interestaduais de ônibus realizadas no Brasil entre os anos de 2019 e 2020. A partir deste dataset, foram realizadas as atividades de análise e manipulação de dados seguindo os conceitos da matéria de Ciência de Dados 2021/02.
+O [*DataSet*](a "Base de Dados") escolhido para realizar a análise e manipulação dos dados foi o **Road transport dataset in Brazil**: um levantamento de dados de viagens interestaduais de ônibus realizadas no Brasil entre os anos de 2019 e 2020. A partir deste dataset, foram realizadas as atividades de análise e manipulação de dados seguindo os conceitos da matéria de Ciência de Dados 2021/02.
 
 --------------------------------------
 ## Referências e Links importantes
@@ -41,7 +41,6 @@ O *DataSet* escolhido para realizar a análise e manipulação dos dados foi o *
 > ```
 > GOMES, Fellipe. Road transport dataset in brazil: Data from a year of road trips in Brazil (+ COVID19 data). Kaggle, 2020. Disponível em: https://www.kaggle.com/gomes555/road-transport-brazil
 > ```
-> [**Link Direto**]("https://www.kaggle.com/gomes555/road-transport-brazil")
 
 
 > ### **Ciência de Dados**
@@ -49,4 +48,3 @@ O *DataSet* escolhido para realizar a análise e manipulação dos dados foi o *
 > ```
 > Storopoli (2020, March 2). Ciência de Dados com Python: pandas, matplotlib, scikit-learn e tensorflow: Ciência de Dados. Disponível em: https://storopoli.io/ciencia-de-dados
 > ```
-> [**Link Direto**]("https://storopoli.io/ciencia-de-dados")
