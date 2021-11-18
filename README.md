@@ -1,7 +1,7 @@
 # Projeto de Ciência de Dados
 - Universidade Nove de Julho
 - Ciência da Computação - 2021/02
-- Visualização Online [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/luisgustavoreimberg/uni9-data_science-brazil_transportation/main/BrazilTransportation[2019-2020].ipynb)
+- Visualização Online [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/luisgustavoreimberg/uni9-data_science-brazil_transportation/main?labpath=BrazilTransportation%5B2019-2020%5D.ipynb)
 
 ## Sobre o Projeto
 - **Tema:** Análise do fluxo do transporte interestadual de ônibus entre os anos de 2019 e 2020
