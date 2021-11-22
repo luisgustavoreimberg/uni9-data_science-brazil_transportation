@@ -62,7 +62,7 @@ O *DataSet* escolhido para realizar a análise e manipulação dos dados foi o *
 
 ### **Importante:**
 Para o projeto funcionar corretamente, deve-se ter instalados os seguintes softwares:
-- Python 3.10.0+
+- Python 3.9.9
 - Pip 21.3.1+
 - Pandas
 
