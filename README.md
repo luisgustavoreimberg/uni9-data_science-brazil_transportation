@@ -32,7 +32,8 @@ O projeto em questão envolve o uso dos conceitos apresentados na aula de **Ciê
 - Verificação de desempenho do estimador do *scikit-learn* no conjunto de teste
 
 ### **Desenvolvimento do projeto**
-O *DataSet* escolhido para realizar a análise e manipulação dos dados foi o **Road transport dataset in Brazil**: um levantamento de dados de viagens interestaduais de ônibus realizadas no Brasil entre os anos de 2019 e 2020. A partir deste dataset, foram realizadas as atividades de análise e manipulação de dados seguindo os conceitos da matéria de Ciência de Dados 2021/02.
+O *DataSet* escolhido para realizar a análise e manipulação dos dados foi o **Road transport dataset in Brazil**: um levantamento de dados de viagens interestaduais de ônibus realizadas no Brasil entre os anos de 2019 e 2020. A partir deste dataset, foram realizadas as atividades de análise e manipulação de dados seguindo os conceitos da matéria de Ciência de Dados 2021/02.  
+Todas as informações e resultados do processamento de dados estão descritos e demonstrados no arquivo **BrazilTransportation[2019-2020].ipynb**.
 
 --------------------------------------
 ## Referências e Links importantes
@@ -65,6 +66,8 @@ Para o projeto funcionar corretamente, deve-se ter instalados os seguintes softw
 - Python 3.9.9
 - Pip 21.3.1+
 - Pandas
+- Matplotlib
+- Scikitlearn
 
 Extensões para serem usadas no Visual Studio Code(caso necessário):
 - Jypyter
